@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cover-itch.io-and-GitHub.png">
+  <img src="Cover-itch.io.png">
 </p>
 
 # StarFox du Bled
