@@ -15,7 +15,7 @@ click away!
 
 ## Credits
 
-A huge thank you to Aurélien of the YouTube channel Game Dev Alliance for 
+A huge thank you to Aurélien of the YouTube channel [Game Dev Alliance](https://www.youtube.com/@GameDevAlliance) for 
 his awesome tutorials! Here are the links of his 3 videos that greatly 
 helped me (note: these tutorials are in French):
 
